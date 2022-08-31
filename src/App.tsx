@@ -1,9 +1,7 @@
-import { Typography } from "@mui/material";
-
 function App() {
   return (
     <>
-      <Typography variant="h1">DevALMO, YouTube Channel</Typography>
+      <h1>DevALMO, YouTube Channel</h1>
     </>
   );
 }
